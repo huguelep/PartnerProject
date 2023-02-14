@@ -11,4 +11,4 @@
 
 3. UML Diagram
 
-![model](uml_diagram.png)
+![model](UML_Diagram.png)
